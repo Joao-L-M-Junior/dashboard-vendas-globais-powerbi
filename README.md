@@ -1,6 +1,6 @@
 # 📊 Dashboard Analítico de Vendas Globais
 
-![Preview do Dashboard](assets/dashboard-preview.jpg)
+![Preview do Dashboard](dashboard-preview.jpg)
 
 ## 🎯 Objetivo do Projeto
 Desenvolvimento de um dashboard interativo no **Microsoft Power BI** para análise comercial e logística de vendas globais. O projeto consolida indicadores financeiros, volumetria por categorias e desempenho geográfico para apoiar a tomada de decisão estratégica.
